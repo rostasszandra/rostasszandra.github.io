@@ -3,6 +3,8 @@ layout: default
 title: "Sandra Rostas"
 ---
 
+![](assets/img/me.jpg)
+
 ## Introduction
 
 Hello! I am Sandra Rostas, a student currently exploring programming, web development, and command-line tools.
